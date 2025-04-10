@@ -9,7 +9,6 @@ A modern Android application built with **Kotlin** and **Jetpack Compose**, desi
 - 🧭 Sleek UI using Jetpack Compose
 - ⚡ Smooth navigation with Navigation Compose
 - 📍 Location-aware components
-- 🗂️ Local data storage with Room
 - 🌐 Optional online sync (if applicable)
 - 🧪 Jetpack Compose previews and testing
 - 🛠️ MVVM architecture
@@ -31,5 +30,5 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/LocalApp.git
+   git clone https://github.com/Srinath-Gajula/LocalApp.git
    cd LocalApp
